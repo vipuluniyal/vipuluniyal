@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vipul Uniyal
 - 👀 I love to code 
-- 🌱 I’m currently learning React 
+- 🌱 Currently learning React 
 - 📫 -email- vipoouniyal565@gmail.com
 
 <!---
